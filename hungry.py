@@ -3,5 +3,4 @@ if v1=="yes":
     print("eat something")
 else:
     print("do your work")
-    print("do what ever you want to")
 
